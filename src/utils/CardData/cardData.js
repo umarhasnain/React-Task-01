@@ -1,5 +1,6 @@
 export const cardData = [
     {
+      "id":1,
       "name": "Chisom Chukwukwe",
       "profession": "UI/UX Designer",
       "description": "Hardworking and reliable UI/UX designer focused on going above and beyond to support teams and serve customers.",
@@ -8,14 +9,15 @@ export const cardData = [
       "profileLink": "https://facebook.com/chisomchukwukwe"
     },
     {
+      "id":"2",
       "name": "Amara Nwokolo",
       "profession": "Graphic Designer",
       "description": "Creative graphic designer with a passion for visual storytelling.",
       "background": "https://images.pexels.com/photos/1640794/pexels-photo-1640794.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?w=150&h=150",
       "profileLink": "https://facebook.com/amara.nwokolo"
     },
     {
+      "id":"3",
       "name": "David Okeke",
       "profession": "Web Developer",
       "description": "Skilled web developer specializing in front-end technologies.",
@@ -24,22 +26,23 @@ export const cardData = [
       "profileLink": "https://facebook.com/david.okeke"
     },
     {
+      "id":"4",
       "name": "Ngozi Obi",
       "profession": "Product Manager",
       "description": "Detail-oriented product manager with experience in agile methodologies.",
       "background": "https://images.pexels.com/photos/3184315/pexels-photo-3184315.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?w=150&h=150",
       "profileLink": "https://facebook.com/ngozi.obi"
     },
     {
+      "id":"5",
       "name": "Emeka Uzo",
       "profession": "Software Engineer",
       "description": "Dedicated software engineer with a focus on backend development.",
       "background": "https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1181669/pexels-photo-1181669.jpeg?w=150&h=150",
       "profileLink": "https://facebook.com/emeka.uzo"
     },
     {
+      "id":"6",
       "name": "Kemi Adebayo",
       "profession": "Data Analyst",
       "description": "Analytical data analyst experienced in data visualization.",
@@ -48,6 +51,7 @@ export const cardData = [
       "profileLink": "https://facebook.com/kemi.adebayo"
     },
     {
+      "id":"7",
       "name": "Chinedu Eze",
       "profession": "Digital Marketer",
       "description": "Innovative digital marketer with a knack for social media strategies.",
@@ -56,6 +60,7 @@ export const cardData = [
       "profileLink": "https://facebook.com/chinedu.eze"
     },
     {
+      "id":"8",
       "name": "Ify Nnaji",
       "profession": "Content Writer",
       "description": "Passionate content writer creating engaging and informative articles.",
@@ -64,14 +69,15 @@ export const cardData = [
       "profileLink": "https://facebook.com/ify.nnaji"
     },
     {
+      "id":"9",
       "name": "Tunde Ogunleye",
       "profession": "SEO Specialist",
       "description": "Results-driven SEO specialist helping brands improve their online visibility.",
       "background": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1181669/pexels-photo-1181669.jpeg?w=150&h=150",
       "profileLink": "https://facebook.com/tunde.ogunleye"
     },
     {
+      "id":"10",
       "name": "Adaobi Chukwu",
       "profession": "Mobile App Developer",
       "description": "Enthusiastic mobile app developer with experience in cross-platform apps.",

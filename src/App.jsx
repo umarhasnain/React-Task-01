@@ -1,12 +1,15 @@
-import React from 'react'
 import Index from './pages/Index'
-import Detail from './components/Detail/Detail'
-
+import { Routes ,Route } from 'react-router-dom'
+import ProfileDetail from './pages/ProfileDetail'
 const App = () => {
   return (
     <div>
-      <Index />
-     <Detail/>
+      <Routes>
+        <Route  path='/' element={<Index/>}/>
+        <Route  path='/home' element={<Index/>}/>
+        <Route  path='/detail/:id' element={<ProfileDetail/>}/>
+        <Route path='*' element={Error}/>
+      </Routes>  
     </div>
   )
 }
